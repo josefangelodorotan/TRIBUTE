@@ -1,0 +1,89 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    background-image: url("");
+    background-repeat: no-repeat;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-size: cover;
+  
+    text-align: center;
+    
+  }
+  
+  p{
+    color: white;
+    align-self: center;
+    
+  }
+  
+  h1{
+    color: white;
+  }
+  
+  h3{
+    color: white;
+  }
+  
+  figcaption{
+    color: tomato;
+  }
+  
+  h2{
+    color: tomato;
+  }
+  
+  #Iconic{
+    font-style: italic;
+  }
+  
+  .second{
+    font-style: inherit;
+  }
+  
+  .first{
+    font-style:  inherit;
+  }
+  
+  a{
+    color: white;
+  }
+  
+  img{
+    border-collapse: white;
+    
+  }
+  
+  #title:hover{
+    color: red;
+  }
+  
+  nav{
+    color: white;
+  
+    
+  }
+  
+  
+  ul{
+    list-style: none;
+    background-color: red;
+    
+  }
+  
+  #main{
+    margin-top: 25px;
+    margin-bottom: 50px;
+    margin-right: 150px;
+    margin-left: 80px;
+  }
+  
+  #second{
+    margin-top: 200px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+  }
+  
+  
